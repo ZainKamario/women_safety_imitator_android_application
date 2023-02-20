@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="shape_for_home_report_btn_s" >
+
+        <item name="cornerSize">10%</item>
+
+
+    </style>
+
+
+    <style name="shape_for_message_box" >
+
+        <item name="cornerSizeTopRight">25%</item>
+        <item name="cornerSizeBottomRight">25%</item>
+
+
+    </style>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FFCEC4</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    My Colors for Application  -->
+
+<!--    <color name="primary_color">#FFCEC4</color>-->
+<!--    <color name="secondary_color">#FFB8B8</color>-->
+<!--    <color name="lighter_text_color">#929292</color>-->
+    <color name="primary_color">#FF9E8A</color>
+    <color name="secondary_color">#FD6C6C</color>
+    <color name="lighter_text_color">#929292</color>
+    <color name="lighter_text_color_hint">#ACACAC</color>
+    <color name="lighter_text_color_highlighter">#CFCFCF</color>
+    <color name="Bolder_text_color">#929292</color>
+    <color name="background_light_white_color">#F6F6F6</color>
+    <color name="secondary_color_light_orange">#FFDEA4</color>
+    <color name="unselected_btn_inner_stroke_color">#FA4B4B</color>
+    <color name="lighter_backround_color">#F6F2EF</color>
+
+
+</resources>
